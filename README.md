@@ -1,7 +1,15 @@
 ### Hi there, I'm Craftboy 👋
 ## I'm a Student, and a Developer!!!
 
-<a href="https://app.daily.dev/craftboy98"><img src="https://api.daily.dev/devcards/d854a534e8404db5988e16a2eea8d403.png?r=sjz" width="400" alt="craft boy's Dev Card"/></a>
+<div align="right">
+  <a href="Craftboy" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/d854a534e8404db5988e16a2eea8d403.png?r=sjz"
+    />
+  </a>
+</div>
 
 - 🔭 Currently working on Nothing
 - 🌱 Currently learning Web Development
