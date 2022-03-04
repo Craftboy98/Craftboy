@@ -19,9 +19,6 @@
 
 <hr>
 <div>
-  <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Yuvaraja28">
-  </p>
 
   <h3 align="center">Connect with me<br></h3>
   <p align="center">
