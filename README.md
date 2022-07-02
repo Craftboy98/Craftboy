@@ -6,7 +6,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/d854a534e8404db5988e16a2eea8d403.png?r=xkz"
+      src="https://api.daily.dev/devcards/d854a534e8404db5988e16a2eea8d403.png?r=9w0"
     />
   </a>
 </div>
