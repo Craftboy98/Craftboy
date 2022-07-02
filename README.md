@@ -11,9 +11,8 @@
   </a>
 </div>
 
-- 🔭 Currently working on Nothing
+- 🔭 Currently working on few projects
 - 🌱 Currently learning Web Development
-- 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun Fact: I am a Verified Bot Developer on Discord
 - 😼 Expert in Automating Works
 
